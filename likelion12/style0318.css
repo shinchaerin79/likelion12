@@ -1,0 +1,19 @@
+.profile{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.picture{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    background-image: url('https://symbl.cc/i/webp/d3/6aee984c239267f841dc443b103156.webp');
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+}
+
+a {
+    text-decoration-line: none;
+  }
