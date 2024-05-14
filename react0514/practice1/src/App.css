@@ -1,0 +1,44 @@
+body {
+  background-color: lightcyan;
+}
+
+.container {
+  margin: 0 auto;
+  margin-top: 4rem;
+  width: 600px;
+  background-color: white;
+  box-shadow: 0 3px 6px lightgrey, 0 3px 6px black;
+  border-radius: 20px;
+}
+
+.contents {
+  padding: 2rem;
+}
+
+.lists {
+  margin-top: 1rem;
+}
+
+.inputText {
+  margin-right: 1rem;
+}
+
+.inputSubmit {
+  margin-top: 1rem;
+}
+
+.checkbox {
+  margin-right: 0.5rem;
+}
+
+.listContent {
+  margin-right: 0.5rem;
+}
+
+.deleteBtn {
+  color: white;
+  background-color: red;
+  border: black;
+  border-radius: 10%;
+  cursor: pointer;
+}
