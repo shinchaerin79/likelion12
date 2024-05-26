@@ -1,0 +1,36 @@
+.container {
+    padding: 20px;
+  }
+  
+  .contents {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .inputText {
+    width: 80%;
+    padding: 10px;
+    margin-right: 10px;
+  }
+  
+  .inputSubmit {
+    padding: 10px 20px;
+  }
+  
+  .lists {
+    margin-top: 20px;
+  }
+  
+  .listContent {
+    margin-left: 10px;
+  }
+  
+  .deleteBtn {
+    margin-left: 10px;
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
